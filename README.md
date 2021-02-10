@@ -1,2 +1,2 @@
-Animal cardusing gradient 
+Animal card using gradient 
 Technologies: HTML, CSS
